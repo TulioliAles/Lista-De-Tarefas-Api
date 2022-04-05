@@ -1,0 +1,12 @@
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Net_Core\ListaTarefas\ListaTarefas.Domain\bin\Debug\net5.0\ListaTarefas.Domain.deps.json
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Net_Core\ListaTarefas\ListaTarefas.Domain\bin\Debug\net5.0\ListaTarefas.Domain.dll
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Net_Core\ListaTarefas\ListaTarefas.Domain\bin\Debug\net5.0\ref\ListaTarefas.Domain.dll
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Net_Core\ListaTarefas\ListaTarefas.Domain\bin\Debug\net5.0\ListaTarefas.Domain.pdb
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Net_Core\ListaTarefas\ListaTarefas.Domain\obj\Debug\net5.0\ListaTarefas.Domain.csproj.AssemblyReference.cache
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Net_Core\ListaTarefas\ListaTarefas.Domain\obj\Debug\net5.0\ListaTarefas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Net_Core\ListaTarefas\ListaTarefas.Domain\obj\Debug\net5.0\ListaTarefas.Domain.AssemblyInfoInputs.cache
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Net_Core\ListaTarefas\ListaTarefas.Domain\obj\Debug\net5.0\ListaTarefas.Domain.AssemblyInfo.cs
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Net_Core\ListaTarefas\ListaTarefas.Domain\obj\Debug\net5.0\ListaTarefas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Net_Core\ListaTarefas\ListaTarefas.Domain\obj\Debug\net5.0\ListaTarefas.Domain.dll
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Net_Core\ListaTarefas\ListaTarefas.Domain\obj\Debug\net5.0\ref\ListaTarefas.Domain.dll
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Net_Core\ListaTarefas\ListaTarefas.Domain\obj\Debug\net5.0\ListaTarefas.Domain.pdb

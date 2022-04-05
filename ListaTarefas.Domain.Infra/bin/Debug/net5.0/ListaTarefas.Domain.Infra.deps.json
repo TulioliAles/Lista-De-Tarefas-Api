@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ListaTarefas.Domain.Infra/1.0.0": {
+        "runtime": {
+          "ListaTarefas.Domain.Infra.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ListaTarefas.Domain.Infra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
