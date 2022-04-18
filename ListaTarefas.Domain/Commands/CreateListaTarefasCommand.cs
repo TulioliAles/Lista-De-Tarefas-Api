@@ -1,9 +1,13 @@
-﻿using ListaTarefas.Domain.Commands.Contracts;
+﻿using Flunt.Br;
+using Flunt.Notifications;
+using Flunt.Validations;
+using ListaTarefas.Domain.Commands.Contracts;
 using System;
+using System.Collections.Generic;
 
 namespace ListaTarefas.Domain.Commands
 {
-    public class CreateListaTarefasCommand : ICommand
+    public class CreateListaTarefasCommand : Notifiable<Notification>,  ICommand
     {
         public CreateListaTarefasCommand() {}
 
@@ -18,9 +22,14 @@ namespace ListaTarefas.Domain.Commands
         public string Usuario { get; set; }
         public DateTime Data { get; set; }
 
-        public void Validate()
+        public void AddNotifications(IEnumerable<Notification> notifications)
         {
             throw new NotImplementedException();
+        }
+
+        public void Validate()
+        {
+      
         }
     }
 }

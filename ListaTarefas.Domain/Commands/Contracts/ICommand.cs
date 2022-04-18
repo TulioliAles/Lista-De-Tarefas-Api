@@ -1,7 +1,8 @@
-﻿namespace ListaTarefas.Domain.Commands.Contracts
+﻿using NHibernate.Classic;
+
+namespace ListaTarefas.Domain.Commands.Contracts
 {
-    public interface ICommand 
+    public interface ICommand : IValidatable
     {
-        void Validate();
     }
 }
